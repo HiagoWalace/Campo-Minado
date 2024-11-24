@@ -1,0 +1,13 @@
+C:\Users\pc\OneDrive\Desktop\Visual Studio\CMinado3.0\obj\Debug\CMinado.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\Visual Studio\CMinado3.0\obj\Debug\CMinado.g.resources
+C:\Users\pc\OneDrive\Desktop\CMinado3.0\obj\Debug\CMinado.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\CMinado3.0\obj\Debug\CMinado.g.resources
+C:\Users\pc\OneDrive\Desktop\CMinado3.0\obj\Debug\CMinado.Form1.resources
+C:\Users\pc\OneDrive\Desktop\CMinado3.0\obj\Debug\CMinado.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\CMinado3.0\bin\Debug\CMinado.exe.config
+C:\Users\pc\OneDrive\Desktop\CMinado3.0\bin\Debug\CMinado.exe
+C:\Users\pc\OneDrive\Desktop\CMinado3.0\bin\Debug\CMinado.pdb
+C:\Users\pc\OneDrive\Desktop\CMinado3.0\obj\Debug\CMinado.Properties.Resources.resources
+C:\Users\pc\OneDrive\Desktop\CMinado3.0\obj\Debug\CMinado.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\CMinado3.0\obj\Debug\CMinado.exe
+C:\Users\pc\OneDrive\Desktop\CMinado3.0\obj\Debug\CMinado.pdb
